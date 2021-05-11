@@ -663,6 +663,16 @@
             "package": "Le Crew",
             "reshasha": "36be3312b321079d46a797a7fc703b51",
             "resource": "ZZZHat.png"
+        },        
+        {
+            "author": "K3ndo", 
+            "climbresource": "Bavaria_climb.png",
+            "condition": "None",
+            "name": "Bravaria",
+            "package": "Le Crew",
+            "reshasha": "f73758ab51a721ea451091797701e739",
+            "reshashc": "aef8edb4bf440728828f7436a74dead1",
+            "resource": "Bavaria_bounce.png"
         }
     ]
 }
