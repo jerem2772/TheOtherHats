@@ -760,6 +760,86 @@
             "reshasha": "e6610544b83e8a24d2f94b28d4188f71",
             "reshashc": "f4e8920b735b12efc9c351fb0b24c48b",
             "resource": "stitched.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Box Bounce",
+            "package": "Le Crew",
+            "reshasha": "5b43d752671714d330b05e5cfcfce4d0",
+            "resource": "Box_bounce.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Pirate Bandana",
+            "package": "Le Crew",
+            "reshasha": "d7605b2ca825d6baad4071d2e6f23c6e",
+            "resource": "PirateBandana.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Purple Wizzard",
+            "package": "Le Crew",
+            "reshasha": "6cb5a3ed45fb1b785d12ec281e0157ab",
+            "resource": "PurpleWizzard_bounce.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Red Puffle",
+            "package": "Le Crew",
+            "reshasha": "0155fe84e0234f1c96d96ff368a13cc4",
+            "resource": "RedPuffleBandana.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Roman Helmet",
+            "package": "Le Crew",
+            "reshasha": "be022a08ad941dc655337a5944bbee40",
+            "resource": "RomanHelmet.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Steampunk",
+            "package": "Le Crew",
+            "reshasha": "55ddc156ab96715c30f1a9a6fed39258",
+            "resource": "SteampunkTopHat.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "The Master",
+            "package": "Le Crew",
+            "reshasha": "8251517666c44485c6bb0b277cd2837a",
+            "resource": "TheMasterHat.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Winged Viking",
+            "package": "Le Crew",
+            "reshasha": "4a0dcabe35f7e411a43fe2966696b98d",
+            "resource": "WingedVikingHelmet.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Graduation Cap",
+            "package": "Le Crew",
+            "reshasha": "66e212a3df2d59740ba7b4ef634bf7c5",
+            "resource": "BlackGraduationCap_bounce.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Furr horn",
+            "package": "Le Crew",
+            "reshasha": "fee74cf7d1797d2ea93d1131ebd457e7",
+            "resource": "Furrhorn.png"
         }
     ]
 }
