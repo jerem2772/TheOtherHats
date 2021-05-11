@@ -673,6 +673,54 @@
             "reshasha": "f73758ab51a721ea451091797701e739",
             "reshashc": "aef8edb4bf440728828f7436a74dead1",
             "resource": "Bavaria_bounce.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Neo Cortex",
+            "package": "Le Crew",
+            "reshasha": "1513dd3ce04588130ede39e8a3439b41",
+            "resource": "NeoCortex.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Spyro",
+            "package": "Le Crew",
+            "reshasha": "61c5db845828fa056577c1ff13bd9b72",
+            "resource": "Spyro.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Starfish",
+            "package": "Le Crew",
+            "reshasha": "b7d3336ee0c3c3120251aec387baa87c",
+            "resource": "Starfish.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Stitch",
+            "package": "Le Crew",
+            "reshasha": "bfa99a80f7c1facdd8a6f60c404b91ab",
+            "resource": "Stitch.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Toothless",
+            "package": "Le Crew",
+            "reshasha": "e67b5cdfd477f5e42da0437efe79d16e",
+            "resource": "Toothless.png"
+        },
+        {
+            "author": "Streamblox",
+            "condition": "None",
+            "name": "Pumpkin",
+            "package": "Le Crew",
+            "reshasha": "33ed8d037c5ec9a863cb428452c88c2a",
+            "resource": "PumpkinHead_bounce.png"
         }
     ]
 }
