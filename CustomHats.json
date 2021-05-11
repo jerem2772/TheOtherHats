@@ -760,15 +760,6 @@
             "reshasha": "e6610544b83e8a24d2f94b28d4188f71",
             "reshashc": "f4e8920b735b12efc9c351fb0b24c48b",
             "resource": "stitched.png"
-        },
-        {
-            "adaptive": true,
-            "author": "K3ndo",
-            "condition": "None",
-            "name": "Comicman",
-            "package": "Le Crew",
-            "reshasha": "369db26d9368ceaf57727ba08e8ce83c",
-            "resource": "Comicman_adaptive.png"
         }
     ]
 }
