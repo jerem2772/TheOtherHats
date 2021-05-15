@@ -1,6 +1,215 @@
 {
     "hats": [
         {
+            "author": "Jerem2772",
+            "condition": "None",
+            "name": "Le Crew",
+            "package": "Le Crew",
+            "reshasha": "3896e21112907e305040627df560938d",
+            "resource": "LeCrew.png"
+        },
+        {
+            "author": "Jerem2772",
+            "condition": "None",
+            "name": "Flour",
+            "package": "Le Crew",
+            "reshasha": "fe5a61dd8277e0d2ff3fefb311357266",
+            "resource": "Flour.png"
+        },
+        {
+            "author": "ZzzSleepy",
+            "condition": "None",
+            "name": "Naruto Headband",
+            "package": "Le Crew",
+            "reshasha": "c6b0c3ee7c17e9ae3868d4ce4aa31b9c",
+            "resource": "NarutoHat.png"
+        },
+        {
+            "author": "ZzzSleepy",
+            "condition": "None",
+            "name": "ZZZ",
+            "package": "Le Crew",
+            "reshasha": "36be3312b321079d46a797a7fc703b51",
+            "resource": "ZZZHat.png"
+        },        
+        {
+            "author": "K3ndo", 
+            "climbresource": "Bavaria_climb.png",
+            "condition": "None",
+            "name": "Bravaria",
+            "package": "Le Crew",
+            "reshasha": "f73758ab51a721ea451091797701e739",
+            "reshashc": "aef8edb4bf440728828f7436a74dead1",
+            "resource": "Bavaria_bounce.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Neo Cortex",
+            "package": "Le Crew",
+            "reshasha": "1513dd3ce04588130ede39e8a3439b41",
+            "resource": "NeoCortex.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Spyro",
+            "package": "Le Crew",
+            "reshasha": "61c5db845828fa056577c1ff13bd9b72",
+            "resource": "Spyro.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Starfish",
+            "package": "Le Crew",
+            "reshasha": "b7d3336ee0c3c3120251aec387baa87c",
+            "resource": "Starfish.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Stitch",
+            "package": "Le Crew",
+            "reshasha": "bfa99a80f7c1facdd8a6f60c404b91ab",
+            "resource": "Stitch.png"
+        },
+        {
+            "author": "Feyne",
+            "condition": "None",
+            "name": "Toothless",
+            "package": "Le Crew",
+            "reshasha": "e67b5cdfd477f5e42da0437efe79d16e",
+            "resource": "Toothless.png"
+        },
+        {
+            "author": "Streamblox",
+            "condition": "None",
+            "name": "Pumpkin",
+            "package": "Le Crew",
+            "reshasha": "33ed8d037c5ec9a863cb428452c88c2a",
+            "resource": "PumpkinHead_bounce.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "condition": "None",
+            "name": "Comicman",
+            "package": "Le Crew",
+            "reshasha": "369db26d9368ceaf57727ba08e8ce83c",
+            "resource": "Comicman_adaptive.png"
+        },
+        {
+            "author": "K3ndo", 
+            "climbresource": "Cowboy_climb.png",
+            "condition": "None",
+            "name": "Cowboy",
+            "package": "Le Crew",
+            "reshasha": "1ff16fcc4fe4b15ddfe0c55aa5b621b1",
+            "reshashc": "4b965adeaed318b6fb806c826a37f91d",
+            "resource": "Cowboy.png"
+        },
+        {
+            "author": "Paradoxon", 
+            "climbresource": "pikatchu_climb.png",
+            "condition": "None",
+            "name": "Pikatchu",
+            "package": "Le Crew",
+            "reshasha": "addd9fffc725b6f9a1b143fce969797b",
+            "reshashc": "031d0e0a428a46b1d22a321badac9dd0",
+            "resource": "pikatchu.png"
+        },
+        {
+            "author": "Palmer", 
+            "climbresource": "stitched_climb.png",
+            "condition": "None",
+            "name": "Stitched",
+            "package": "Le Crew",
+            "reshasha": "e6610544b83e8a24d2f94b28d4188f71",
+            "reshashc": "f4e8920b735b12efc9c351fb0b24c48b",
+            "resource": "stitched.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Box Bounce",
+            "package": "Le Crew",
+            "reshasha": "5b43d752671714d330b05e5cfcfce4d0",
+            "resource": "Box_bounce.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Pirate Bandana",
+            "package": "Le Crew",
+            "reshasha": "d7605b2ca825d6baad4071d2e6f23c6e",
+            "resource": "PirateBandana.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Purple Wizzard",
+            "package": "Le Crew",
+            "reshasha": "6cb5a3ed45fb1b785d12ec281e0157ab",
+            "resource": "PurpleWizzard_bounce.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Red Puffle",
+            "package": "Le Crew",
+            "reshasha": "0155fe84e0234f1c96d96ff368a13cc4",
+            "resource": "RedPuffleBandana.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Roman Helmet",
+            "package": "Le Crew",
+            "reshasha": "be022a08ad941dc655337a5944bbee40",
+            "resource": "RomanHelmet.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Steampunk",
+            "package": "Le Crew",
+            "reshasha": "55ddc156ab96715c30f1a9a6fed39258",
+            "resource": "SteampunkTopHat.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "The Master",
+            "package": "Le Crew",
+            "reshasha": "8251517666c44485c6bb0b277cd2837a",
+            "resource": "TheMasterHat.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Winged Viking",
+            "package": "Le Crew",
+            "reshasha": "4a0dcabe35f7e411a43fe2966696b98d",
+            "resource": "WingedVikingHelmet.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Graduation Cap",
+            "package": "Le Crew",
+            "reshasha": "66e212a3df2d59740ba7b4ef634bf7c5",
+            "resource": "BlackGraduationCap_bounce.png"
+        },
+        {
+            "author": "DuffyDuck",
+            "condition": "None",
+            "name": "Furr horn",
+            "package": "Le Crew",
+            "reshasha": "fee74cf7d1797d2ea93d1131ebd457e7",
+            "resource": "Furrhorn.png"
+        },
+        {
             "author": "Palmer",
             "bounce": true,
             "climbresource": "megaphone_climb.png",
@@ -706,213 +915,194 @@
             "resource": "hoodie_adaptive.png"
         },
         {
-            "author": "Jerem2772",
+            "adaptive": true,
+            "author": "ycy",
+            "backresource": "hairband_back.png",
+            "climbresource": "hairband_adaptive_climb.png",
             "condition": "None",
-            "name": "Le Crew",
-            "package": "Le Crew",
-            "reshasha": "3896e21112907e305040627df560938d",
-            "resource": "LeCrew.png"
-        },
-        {
-            "author": "Jerem2772",
-            "condition": "None",
-            "name": "Flour",
-            "package": "Le Crew",
-            "reshasha": "fe5a61dd8277e0d2ff3fefb311357266",
-            "resource": "Flour.png"
-        },
-        {
-            "author": "ZzzSleepy",
-            "condition": "None",
-            "name": "Naruto Headband",
-            "package": "Le Crew",
-            "reshasha": "c6b0c3ee7c17e9ae3868d4ce4aa31b9c",
-            "resource": "NarutoHat.png"
-        },
-        {
-            "author": "ZzzSleepy",
-            "condition": "None",
-            "name": "ZZZ",
-            "package": "Le Crew",
-            "reshasha": "36be3312b321079d46a797a7fc703b51",
-            "resource": "ZZZHat.png"
-        },        
-        {
-            "author": "K3ndo", 
-            "climbresource": "Bavaria_climb.png",
-            "condition": "None",
-            "name": "Bravaria",
-            "package": "Le Crew",
-            "reshasha": "f73758ab51a721ea451091797701e739",
-            "reshashc": "aef8edb4bf440728828f7436a74dead1",
-            "resource": "Bavaria_bounce.png"
-        },
-        {
-            "author": "Feyne",
-            "condition": "None",
-            "name": "Neo Cortex",
-            "package": "Le Crew",
-            "reshasha": "1513dd3ce04588130ede39e8a3439b41",
-            "resource": "NeoCortex.png"
-        },
-        {
-            "author": "Feyne",
-            "condition": "None",
-            "name": "Spyro",
-            "package": "Le Crew",
-            "reshasha": "61c5db845828fa056577c1ff13bd9b72",
-            "resource": "Spyro.png"
-        },
-        {
-            "author": "Feyne",
-            "condition": "None",
-            "name": "Starfish",
-            "package": "Le Crew",
-            "reshasha": "b7d3336ee0c3c3120251aec387baa87c",
-            "resource": "Starfish.png"
-        },
-        {
-            "author": "Feyne",
-            "condition": "None",
-            "name": "Stitch",
-            "package": "Le Crew",
-            "reshasha": "bfa99a80f7c1facdd8a6f60c404b91ab",
-            "resource": "Stitch.png"
-        },
-        {
-            "author": "Feyne",
-            "condition": "None",
-            "name": "Toothless",
-            "package": "Le Crew",
-            "reshasha": "e67b5cdfd477f5e42da0437efe79d16e",
-            "resource": "Toothless.png"
-        },
-        {
-            "author": "Streamblox",
-            "condition": "None",
-            "name": "Pumpkin",
-            "package": "Le Crew",
-            "reshasha": "33ed8d037c5ec9a863cb428452c88c2a",
-            "resource": "PumpkinHead_bounce.png"
+            "name": "Hairband",
+            "package": "Community Hats",
+            "reshasha": "504c7d254c37a9d74f802fd8a14108c8",
+            "reshashb": "5512a5c3d15252688ce886817f4ffd0a",
+            "reshashc": "5370ae50611429bb35e6d3ca5918a3d7",
+            "resource": "hairband_adaptive.png"
         },
         {
             "adaptive": true,
+            "author": "stitchk",
+            "climbresource": "newhoodie_climb.png",
+            "condition": "None",
+            "name": "Hoodie 2",
+            "package": "Community Hats",
+            "reshasha": "98e0c2e8853ea35a2357a36c3d8819f4",
+            "reshashc": "af75bc1f7e32774fbf3e365aaaf26d4e",
+            "resource": "newhoodie_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Пиф",
+            "climbresource": "love_adaptive_climb.png",
+            "condition": "None",
+            "name": "Feeling Cute",
+            "package": "Community Hats",
+            "reshasha": "8bfa32625eea5304528a0e5fc26e34fc",
+            "reshashc": "51256aa3daa8e867f75ce2f18eb276d6",
+            "resource": "love_adaptive.png"
+        },
+        {
+            "author": "Noui",
+            "bounce": true,
+            "climbresource": "ghostking_climb.png",
+            "condition": "None",
+            "name": "ghostking",
+            "package": "Community Hats",
+            "reshasha": "4acd8f9086759f98315672f5a4cdd32f",
+            "reshashc": "abeefdf3e3b170e48d29cd620b3efd4c",
+            "resource": "ghostking_bounce.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "holla_back.png",
+            "climbresource": "holla_climb.png",
+            "condition": "None",
+            "name": "Holla",
+            "package": "Community Hats",
+            "reshasha": "2b6131540054ec5d1abd5f345ccb3675",
+            "reshashb": "e30946bedf525d7aa1e7f24a275f2e08",
+            "reshashc": "6dd112033f9f51064684e3ea6c0c0511",
+            "resource": "holla.png"
+        },
+        {
             "author": "K3ndo",
+            "climbresource": "Monster_climb.png",
             "condition": "None",
-            "name": "Comicman",
-            "package": "Le Crew",
-            "reshasha": "369db26d9368ceaf57727ba08e8ce83c",
-            "resource": "Comicman_adaptive.png"
+            "name": "Monster",
+            "package": "Community Hats",
+            "reshasha": "764e989112ed14eb904f3c6510c383be",
+            "reshashc": "46722f2e79ff7c6203392d9d9404abe3",
+            "resource": "Monster.png"
         },
         {
-            "author": "K3ndo", 
-            "climbresource": "Cowboy_climb.png",
+            "author": "Drakoni",
+            "climbresource": "FeineKatze_climb.png",
             "condition": "None",
-            "name": "Cowboy",
-            "package": "Le Crew",
-            "reshasha": "1ff16fcc4fe4b15ddfe0c55aa5b621b1",
-            "reshashc": "4b965adeaed318b6fb806c826a37f91d",
-            "resource": "Cowboy.png"
+            "name": "FeineKatze",
+            "package": "Community Hats",
+            "reshasha": "4202740e4594839ba5c483b528cdc1f9",
+            "reshashc": "b1578e1aebf8e78dec189eb89e0583f3",
+            "resource": "FeineKatze.png"
         },
         {
-            "author": "Paradoxon", 
-            "climbresource": "pikatchu_climb.png",
+            "adaptive": true,
+            "author": "stitchk",
+            "backresource": "tanuki_back.png",
+            "climbresource": "tanuki_climb.png",
             "condition": "None",
-            "name": "Pikatchu",
-            "package": "Le Crew",
-            "reshasha": "addd9fffc725b6f9a1b143fce969797b",
-            "reshashc": "031d0e0a428a46b1d22a321badac9dd0",
-            "resource": "pikatchu.png"
+            "name": "tanuki",
+            "package": "Community Hats",
+            "reshasha": "3656b664b7224c2bf9f6be7b1bfa2dbc",
+            "reshashb": "8df10535a2f46ff13b6f41a529f2f50f",
+            "reshashc": "118f5b99c3371c765008e164dbd0bb07",
+            "resource": "tanuki_adaptive.png"
         },
         {
-            "author": "Palmer", 
-            "climbresource": "stitched_climb.png",
+            "author": "Drakoni",
+            "backflipresource": "juli_back_flip.png",
+            "backresource": "juli_back.png",
+            "climbresource": "juli_climb.png",
             "condition": "None",
-            "name": "Stitched",
-            "package": "Le Crew",
-            "reshasha": "e6610544b83e8a24d2f94b28d4188f71",
-            "reshashc": "f4e8920b735b12efc9c351fb0b24c48b",
-            "resource": "stitched.png"
+            "flipresource": "juli_flip.png",
+            "name": "juli",
+            "package": "Community Hats",
+            "reshasha": "c4546885fa4d9c3d86013f4bfec876eb",
+            "reshashb": "3d3dea545c0655ca9aa323d27dfbd790",
+            "reshashbf": "fc7928da160a7d014835772c572fc8be",
+            "reshashc": "ed7222512cd6b532ce23d53870e79577",
+            "reshashf": "3259d7485c9c9923dd919c3fa3acef84",
+            "resource": "juli.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "FreakaMania",
+            "backflipresource": "HarleyQuinn_back_flip.png",
+            "backresource": "HarleyQuinn_back.png",
+            "climbresource": "HarleyQuinn_climb.png",
             "condition": "None",
-            "name": "Box Bounce",
-            "package": "Le Crew",
-            "reshasha": "5b43d752671714d330b05e5cfcfce4d0",
-            "resource": "Box_bounce.png"
+            "flipresource": "HarleyQuinn_flip.png",
+            "name": "Harley Wig",
+            "package": "Community Hats",
+            "reshasha": "11f61a40ae246753538f5e5790ad08f3",
+            "reshashb": "7651c9c2587395effc16f7d0633a9422",
+            "reshashbf": "1288a5769480a15b57f1e25abadab9ad",
+            "reshashc": "2ae55ce495f58699040d8df1c6336279",
+            "reshashf": "0d96c9c8bd0dd9b5a9ee6d26b346242e",
+            "resource": "HarleyQuinn.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "K3ndo",
+            "backresource": "Bushi_back.png",
+            "climbresource": "Bushi_climb.png",
             "condition": "None",
-            "name": "Pirate Bandana",
-            "package": "Le Crew",
-            "reshasha": "d7605b2ca825d6baad4071d2e6f23c6e",
-            "resource": "PirateBandana.png"
+            "flipresource": "Bushi_flip.png",
+            "name": "Bushi",
+            "package": "Community Hats",
+            "reshasha": "0461c5d21eb22b1504962bda4c91adee",
+            "reshashb": "3f308170cf1bd23407cb157c865c91d1",
+            "reshashc": "d88df79a901531bdee7937862ddfed8a",
+            "reshashf": "557fe60bd0a86c3caa014fa8da1da26a",
+            "resource": "Bushi.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "stitchk",
+            "climbresource": "dumb_climb.png",
             "condition": "None",
-            "name": "Purple Wizzard",
-            "package": "Le Crew",
-            "reshasha": "6cb5a3ed45fb1b785d12ec281e0157ab",
-            "resource": "PurpleWizzard_bounce.png"
+            "flipresource": "dumb_flip.png",
+            "name": "dumb",
+            "package": "Community Hats",
+            "reshasha": "bfc9d4a30744d103027002ae1958b3be",
+            "reshashc": "6225e7123d9fb035f093d7e58c640294",
+            "reshashf": "7559ef91872e2189f3e52163f14e9ef2",
+            "resource": "dumb.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "Drakoni",
             "condition": "None",
-            "name": "Red Puffle",
-            "package": "Le Crew",
-            "reshasha": "0155fe84e0234f1c96d96ff368a13cc4",
-            "resource": "RedPuffleBandana.png"
+            "name": "Goatee",
+            "package": "Community Hats",
+            "reshasha": "bee1b833550f81c8a057d98d51e95fe6",
+            "resource": "goatee.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "stitchk",
+            "climbresource": "3dglasses_climb.png",
             "condition": "None",
-            "name": "Roman Helmet",
-            "package": "Le Crew",
-            "reshasha": "be022a08ad941dc655337a5944bbee40",
-            "resource": "RomanHelmet.png"
+            "flipresource": "3dglasses_flip.png",
+            "name": "3dglasses",
+            "package": "Community Hats",
+            "reshasha": "3ab30fec438291075ba2b2cb28fad4d8",
+            "reshashc": "aaffb932b9bea413181c04b552976933",
+            "reshashf": "767a23a3f64a7cdda741ab76bea04f76",
+            "resource": "3dglasses.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "Senf",
+            "bounce": true,
+            "climbresource": "afro_climb.png",
             "condition": "None",
-            "name": "Steampunk",
-            "package": "Le Crew",
-            "reshasha": "55ddc156ab96715c30f1a9a6fed39258",
-            "resource": "SteampunkTopHat.png"
+            "name": "Afro",
+            "package": "Community Hats",
+            "reshasha": "83e0bf788b4b4a4b3fe65fbe89ebf337",
+            "reshashc": "21da5f23119abb5bec22613136506ca9",
+            "resource": "afro_bounce.png"
         },
         {
-            "author": "DuffyDuck",
+            "author": "Drakoni", 
+            "climbresource": "beard_thick_climb.png",
             "condition": "None",
-            "name": "The Master",
-            "package": "Le Crew",
-            "reshasha": "8251517666c44485c6bb0b277cd2837a",
-            "resource": "TheMasterHat.png"
-        },
-        {
-            "author": "DuffyDuck",
-            "condition": "None",
-            "name": "Winged Viking",
-            "package": "Le Crew",
-            "reshasha": "4a0dcabe35f7e411a43fe2966696b98d",
-            "resource": "WingedVikingHelmet.png"
-        },
-        {
-            "author": "DuffyDuck",
-            "condition": "None",
-            "name": "Graduation Cap",
-            "package": "Le Crew",
-            "reshasha": "66e212a3df2d59740ba7b4ef634bf7c5",
-            "resource": "BlackGraduationCap_bounce.png"
-        },
-        {
-            "author": "DuffyDuck",
-            "condition": "None",
-            "name": "Furr horn",
-            "package": "Le Crew",
-            "reshasha": "fee74cf7d1797d2ea93d1131ebd457e7",
-            "resource": "Furrhorn.png"
+            "name": "beard",
+            "package": "Community Hats",
+            "reshasha": "6238c87e50f9246590097291a6ba816d",
+            "reshashc": "199aa32ada2bd8b7d93cf3a5b55fb750",
+            "resource": "beard_viking.png"
         }
     ]
 }
