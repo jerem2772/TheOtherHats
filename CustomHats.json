@@ -1007,16 +1007,6 @@
             "resource": "Divi_adaptive.png"
         },
         {
-            "author": "k3ndo",
-            "climbresource": "Cowboy_climb.png",
-            "condition": "None",
-            "name": "Cowboy",
-            "package": "Community Hats",
-            "reshasha": "00b67a0954a23ee0a5ec96fc83626f9e",
-            "reshashc": "4b965adeaed318b6fb806c826a37f91d",
-            "resource": "Cowboy.png"
-        },
-        {
             "author": "bavari",
             "backresource": "bubblebath_back.png",
             "climbresource": "bubblebath_climb.png",
